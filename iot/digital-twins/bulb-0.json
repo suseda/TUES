@@ -1,0 +1,33 @@
+{
+    "thingId": "bulb-0",
+    "policyId": "bulb-0",
+    "attributes": {
+        "model": "UltraLux",
+        "diameter": 10,
+        "warranty": 2
+    },
+    "features": {
+        "indicators": {
+            "properties": {
+                "brightness": 0,
+                "color": "Orange"
+            },
+            "desiredProperties": {
+                "brightness": 50,
+                "colors": [
+                    "Yellow",
+                    "Red",
+                    "Green",
+                    "Blue",
+                    "White",
+                    "Orange"
+                ]
+            }
+        },
+        "state": {
+            "properties": {
+                "working": "On"
+            }
+        }
+    }
+}

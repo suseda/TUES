@@ -1,0 +1,15 @@
+<h1> Shop </h1>
+{{#each items}}
+  <form method="POST" action="/addItem">
+    {{name}}
+    <input type="hidden" name="id" value="{{id}}" />
+    <input type="submit" value="+ Add" />
+  </form>
+{{/each}}
+
+<h1> Basket </h1>
+{{#each basket}}
+  <div>
+    {{name}}
+  </div>
+{{/each}}
