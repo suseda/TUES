@@ -1,0 +1,3 @@
+pesho 6
+gosho 5
+tosho 3

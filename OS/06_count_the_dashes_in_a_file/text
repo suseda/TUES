@@ -1,0 +1,7 @@
+In order to demonstrate the functionallity of our code, we need one thing - dashes.
+How many dashesh, one could ask? The more - the better. We can have dashesh on different lines, dashesh on the same line, dashesh below the line:
+-
+or even! dashesh above the line. Dashes, dashes, dashes, all the dashes. Let's have two dashes following one-another:
+--
+Or even three dashes! ---.
+We have a sufficient number of dashesh now. Let's count them!

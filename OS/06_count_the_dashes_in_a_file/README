@@ -1,0 +1,10 @@
+0) Read the text file. You can see it's content via
+cat text
+	or
+vim text
+1) Count the number of dashes.
+2) Compile main.c
+gcc main.c
+3) Run the compiled code
+./a.out
+4) Make sure the code counts correctly.

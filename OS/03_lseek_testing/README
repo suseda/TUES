@@ -1,0 +1,11 @@
+0) Подсигурете, че се намирате в директория "lseek_testing" (чрез cd).
+1) Подсигурете, че testfile е с правилното съдържание:
+cp original testfile
+2) Компилирайте main.c
+gcc main.c
+3) Вижте съдържанието на testfile:
+cat testfile
+4) Стартирайте компилирания файл:
+./a.out
+5) Вижте модифицираното състояние на testfile:
+cat testfile

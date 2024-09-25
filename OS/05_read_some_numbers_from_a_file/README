@@ -1,0 +1,5 @@
+1) The numbers file is the same as the one from 04.
+2) Compile main.c
+gcc main.c
+3) Run the code
+./a.out

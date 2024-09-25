@@ -1,0 +1,11 @@
+0) Compile the source code
+gcc main.c
+1) Run the code
+./a.out
+2) Modify the code to use 1 write instead of 13
+3) Compile again to introduce the changes
+gcc main.c
+4) Run the code again
+./a.out
+5) Run reader to read the saved numbers:
+./reader

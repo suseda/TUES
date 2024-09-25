@@ -1,0 +1,17 @@
+So, in order to demonstrate the capabilities of our code
+we need some blocks.
+For example:
+Block one:
+{
+	This is the verry first block!
+}
+block two: { The 2nd one is tricky, it's all in the same row }
+{
+	The 3th block is even trickier!
+		{ because it contains a nested block }
+		{ and another one! }
+		{ my, oh my, how can we handle this situation? }
+	We'll have to be precise
+}
+lets set a trap! } for our code. Will it correcty handle the fact there is no block } being oppened?
+what if we open {another block} after the } trap?

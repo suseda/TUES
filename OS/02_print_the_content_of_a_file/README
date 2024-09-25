@@ -1,0 +1,4 @@
+1) Compile main.c
+gcc main.c
+2) Run the compiled code:
+./a.out
